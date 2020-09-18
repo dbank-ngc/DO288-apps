@@ -13,7 +13,7 @@ pipeline {
         DEV_PROJECT = "dbank-ngc-books-dev"
         STAGE_PROJECT = "dbank-ngc-books-stage"
         APP_GIT_URL = "https://github.com/dbank-ngc/DO288-apps"
-        NEXUS_SERVER = "http://nexus-common.apps.cluster.domain.example.com/repository/nodejs"
+        NEXUS_SERVER = "nexus-common.apps.na45.prod.nextcle.com"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "books"
